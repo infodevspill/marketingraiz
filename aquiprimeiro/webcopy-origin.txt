@@ -1,0 +1,304 @@
+Uri: https://aquiprimeiro.com.br/comments/feed/
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://aquiprimeiro.com.br/feed/
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://aquiprimeiro.com.br/seu-ze-e-joao/
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\seu-ze-e-joao\index.htm
+Content Type: text/html
+
+Uri: https://aquiprimeiro.com.br/wp-content/plugins/datalayer-for-elementor/includes/jquerynew.js?ver=1.2
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\plugins\datalayer-for-elementor\includes\jquerynew.js
+Content Type: application/javascript
+
+Uri: https://aquiprimeiro.com.br/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.7.3
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\plugins\elementor-pro\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://aquiprimeiro.com.br/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.7.3
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://aquiprimeiro.com.br/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.7.3
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://aquiprimeiro.com.br/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.7.3
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://aquiprimeiro.com.br/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.7.8
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://aquiprimeiro.com.br/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.7.8
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://aquiprimeiro.com.br/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.7.8
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://aquiprimeiro.com.br/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.7.8
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://aquiprimeiro.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.7.8
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://aquiprimeiro.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.7.8
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: https://aquiprimeiro.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.7.8
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min.js
+Content Type: application/javascript
+
+Uri: https://aquiprimeiro.com.br/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://aquiprimeiro.com.br/wp-content/plugins/form-masks-for-elementor/assets/js/elementor-mask.js?ver=1.6.1
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\plugins\form-masks-for-elementor\assets\js\elementor-mask.js
+Content Type: application/javascript
+
+Uri: https://aquiprimeiro.com.br/wp-content/plugins/form-masks-for-elementor/assets/lib/jquery.mask.js?ver=1.6.1
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\plugins\form-masks-for-elementor\assets\lib\jquery.mask.js
+Content Type: application/javascript
+
+Uri: https://aquiprimeiro.com.br/wp-content/plugins/mask-form-elementor/js/jquery.mask.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\plugins\mask-form-elementor\js\jquery.mask.min.js
+Content Type: application/javascript
+
+Uri: https://aquiprimeiro.com.br/wp-content/plugins/mask-form-elementor/js/maskformelementor.js?ver=1.0
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\plugins\mask-form-elementor\js\maskformelementor.js
+Content Type: application/javascript
+
+Uri: https://aquiprimeiro.com.br/wp-content/plugins/pixelyoursite/dist/scripts/jquery.bind-first-0.2.3.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\plugins\pixelyoursite\dist\scripts\jquery.bind-first-0.2.3.min.js
+Content Type: application/javascript
+
+Uri: https://aquiprimeiro.com.br/wp-content/plugins/pixelyoursite/dist/scripts/js.cookie-2.1.3.min.js?ver=2.1.3
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\plugins\pixelyoursite\dist\scripts\js.cookie-2.1.3.min.js
+Content Type: application/javascript
+
+Uri: https://aquiprimeiro.com.br/wp-content/plugins/pixelyoursite/dist/scripts/public.js?ver=9.2.0
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\plugins\pixelyoursite\dist\scripts\public.js
+Content Type: application/javascript
+
+Uri: https://aquiprimeiro.com.br/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\themes\hello-elementor\assets\js\hello-frontend.min.js
+Content Type: application/javascript
+
+Uri: https://aquiprimeiro.com.br/wp-content/themes/hello-elementor/style.min.css?ver=2.6.1
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\themes\hello-elementor\style.min.css
+Content Type: text/css
+
+Uri: https://aquiprimeiro.com.br/wp-content/themes/hello-elementor/theme.min.css?ver=2.6.1
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\themes\hello-elementor\theme.min.css
+Content Type: text/css
+
+Uri: https://aquiprimeiro.com.br/wp-content/uploads/2022/10/favicon-150x150.png
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\uploads\2022\10\favicon-150x150.png
+Content Type: image/png
+
+Uri: https://aquiprimeiro.com.br/wp-content/uploads/2022/10/favicon-300x300.png
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\uploads\2022\10\favicon-300x300.png
+Content Type: image/png
+
+Uri: https://aquiprimeiro.com.br/wp-content/uploads/2022/10/premios-mm-um-1-1024x994.jpg
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\uploads\2022\10\premios-mm-um-1-1024x994.jpg
+Content Type: image/jpeg
+
+Uri: https://aquiprimeiro.com.br/wp-content/uploads/2022/10/premios-mm-um-1-300x291.jpg
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\uploads\2022\10\premios-mm-um-1-300x291.jpg
+Content Type: image/jpeg
+
+Uri: https://aquiprimeiro.com.br/wp-content/uploads/2022/10/premios-mm-um-1-768x746.jpg
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\uploads\2022\10\premios-mm-um-1-768x746.jpg
+Content Type: image/jpeg
+
+Uri: https://aquiprimeiro.com.br/wp-content/uploads/2022/10/premios-mm-um-1.jpg
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\uploads\2022\10\premios-mm-um-1.jpg
+Content Type: image/jpeg
+
+Uri: https://aquiprimeiro.com.br/wp-content/uploads/2022/11/marcio-marcal-falcao-do-marketing-de-afiliados-1024x935.jpg
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\uploads\2022\11\marcio-marcal-falcao-do-marketing-de-afiliados-1024x935.jpg
+Content Type: image/jpeg
+
+Uri: https://aquiprimeiro.com.br/wp-content/uploads/2022/11/marcio-marcal-falcao-do-marketing-de-afiliados-300x274.jpg
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\uploads\2022\11\marcio-marcal-falcao-do-marketing-de-afiliados-300x274.jpg
+Content Type: image/jpeg
+
+Uri: https://aquiprimeiro.com.br/wp-content/uploads/2022/11/marcio-marcal-falcao-do-marketing-de-afiliados-768x701.jpg
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\uploads\2022\11\marcio-marcal-falcao-do-marketing-de-afiliados-768x701.jpg
+Content Type: image/jpeg
+
+Uri: https://aquiprimeiro.com.br/wp-content/uploads/2022/11/marcio-marcal-falcao-do-marketing-de-afiliados.jpg
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\uploads\2022\11\marcio-marcal-falcao-do-marketing-de-afiliados.jpg
+Content Type: image/jpeg
+
+Uri: https://aquiprimeiro.com.br/wp-content/uploads/2022/11/marcio-marcal-livros-mustang-1024x892.jpg
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\uploads\2022\11\marcio-marcal-livros-mustang-1024x892.jpg
+Content Type: image/jpeg
+
+Uri: https://aquiprimeiro.com.br/wp-content/uploads/2022/11/marcio-marcal-livros-mustang-300x261.jpg
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\uploads\2022\11\marcio-marcal-livros-mustang-300x261.jpg
+Content Type: image/jpeg
+
+Uri: https://aquiprimeiro.com.br/wp-content/uploads/2022/11/marcio-marcal-livros-mustang-768x669.jpg
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\uploads\2022\11\marcio-marcal-livros-mustang-768x669.jpg
+Content Type: image/jpeg
+
+Uri: https://aquiprimeiro.com.br/wp-content/uploads/2022/11/marcio-marcal-livros-mustang.jpg
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\uploads\2022\11\marcio-marcal-livros-mustang.jpg
+Content Type: image/jpeg
+
+Uri: https://aquiprimeiro.com.br/wp-content/uploads/elementor/thumbs/logo-mm-pwxgl0u8h55hdpzk43psipq26yqv19ub7sw81314le.png
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-content\uploads\elementor\thumbs\logo-mm-pwxgl0u8h55hdpzk43psipq26yqv19ub7sw81314le.png
+Content Type: image/png
+
+Uri: https://aquiprimeiro.com.br/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://aquiprimeiro.com.br/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://aquiprimeiro.com.br/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://aquiprimeiro.com.br/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://aquiprimeiro.com.br/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://aquiprimeiro.com.br/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://aquiprimeiro.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://aquiprimeiro.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://aquiprimeiro.com.br/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://aquiprimeiro.com.br/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: https://aquiprimeiro.com.br/wp-json/
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://aquiprimeiro.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Faquiprimeiro.com.br%2Fseu-ze-e-joao%2F
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://aquiprimeiro.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Faquiprimeiro.com.br%2Fseu-ze-e-joao%2F&format=xml
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://aquiprimeiro.com.br/wp-json/wp/v2/pages/2638
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\wp-json\wp\v2\pages\2638
+Content Type: application/json
+
+Uri: https://aquiprimeiro.com.br/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.1.1
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://www.facebook.com/tr?id=783819599534039&ev=PageView&noscript=1&cd[page_title]=Seu+Zé+e+João&cd[post_type]=page&cd[post_id]=2638&cd[plugin]=PixelYourSite&cd[user_role]=guest&cd[event_url]=aquiprimeiro.com.br%2Fseu-ze-e-joao%2F
+File Name: C:\Downloaded Web Sites\aquiprimeiro.com.br\tr
+Content Type: text/plain
+
